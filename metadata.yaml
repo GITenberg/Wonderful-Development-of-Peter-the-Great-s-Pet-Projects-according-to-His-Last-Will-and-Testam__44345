@@ -1,0 +1,39 @@
+_repo: Wonderful-Development-of-Peter-the-Great-s-Pet-Projects-according-to-His-Last-Will-and-Testam__44345
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Peter I, Emperor of Russia
+    aliases:
+    - Romanov, Pyotr Alexeyevich
+    - Peter, the Great
+    - Romanov, Petr Alekseevich
+    - Pierre, le Grand
+    - Петр I, Великий
+    birthdate: 1672
+    deathdate: 1725
+    gutenberg_agent_id: '42691'
+    url: http://www.gutenberg.org/2009/agents/42691
+covers:
+- cover_type: archival
+  image_path: 44345-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gannon, W.
+    gutenberg_agent_id: '42702'
+    url: http://www.gutenberg.org/2009/agents/42702
+description: ''
+gutenberg_issued: '2013-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44345'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'VM'
+- !lcsh 'Shipbuilding'
+title: "Wonderful Development of Peter the Great's Pet Projects, according to His\
+  \ Last Will and Testament.\r\nAmerican Invention as an Aid to Russia's Grasp on\
+  \ Asiatic Territory."
+url: http://www.gutenberg.org/ebooks/44345
