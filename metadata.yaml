@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '42702'
     url: http://www.gutenberg.org/2009/agents/42702
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44345#Wonderful-Development-of-Peter-the-Great-s-Pet-Projects-according-to-His-Last-Will-and-Testam_
 gutenberg_issued: '2013-12-04'
 gutenberg_type: Text
 identifiers:
